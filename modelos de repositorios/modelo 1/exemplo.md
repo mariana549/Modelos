@@ -18,7 +18,7 @@ Liste as principais tecnologias, ferramentas e bibliotecas que você usou no seu
     - HTML: para estruturar o conteúdo da página em elementos como div, form, input, button e a.
     - CSS: para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e efeitos.
 
-# 🛠 Pré-requisitos
+## 🛠 Pré-requisitos
 
 Para começar a usar o projeto, você precisa verificar se tem os seguintes requisitos na sua máquina:
 
