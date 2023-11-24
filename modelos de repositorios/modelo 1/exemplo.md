@@ -28,9 +28,9 @@ Para começar a usar o projeto, você precisa verificar se tem os seguintes requ
    - Você instalou a versão mais recente de `Python`. Você pode verificar a versão usando o comando `python --version`.
     -->
 
-   -Você tem uma máquina `<Windows / Linux / Mac>`. O meu projeto é compatível com os seguintes sistemas operacionais: `<lista de sistemas operacionais>`.
+   - Você tem uma máquina `<Windows / Linux / Mac>`. O meu projeto é compatível com os seguintes sistemas operacionais: `<lista de sistemas operacionais>`.
 
-   -Você leu `<guia / link / "documentação_relacionada_ao_projeto>`. Lá você vai encontrar mais informações sobre o meu projeto, como o que ele faz, como ele funciona, quais são as suas funcionalidades e como testá-las
+   - Você leu `<guia / link / "documentação_relacionada_ao_projeto>`. Lá você vai encontrar mais informações sobre o meu projeto, como o que ele faz, como ele funciona, quais são as suas funcionalidades e como testá-las
    
 
 ## 🛠 Instalação
@@ -94,4 +94,4 @@ Você pode usar sites como [Choose a License](https://choosealicense.com/) para 
 
 ----
 
-feito com ❤️ por [Mariana Antonia](https://github.com/mariana549)
+feito com ❤️ por [Mariana Antonia](https://github.com/mariana549) 😊
