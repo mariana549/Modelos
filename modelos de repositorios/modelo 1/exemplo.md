@@ -1,3 +1,6 @@
+<!-- Esse exemplo e um pouco mais elaborado para  quem quer mostra mais informações sobre seus projetos pessoais -->
+
+
 # 🚀 Nome do projeto
 
 ## 📝 Descrição
@@ -14,7 +17,20 @@ Liste as principais tecnologias, ferramentas e bibliotecas que você usou no seu
     EXEMPLO 
     - HTML: para estruturar o conteúdo da página em elementos como div, form, input, button e a.
     - CSS: para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e efeitos.
-    
+
+# 🛠 Pré-requisitos
+
+Para começar a usar o projeto, você precisa verificar se tem os seguintes requisitos na sua máquina:
+
+   - Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`. Você pode verificar a versão usando o comando `<comando>`.
+
+   <!-- exemplo da parte de comando para você colocar è
+   - Você instalou a versão mais recente de `Python`. Você pode verificar a versão usando o comando `python --version`.
+    -->
+
+   -Você tem uma máquina `<Windows / Linux / Mac>`. O meu projeto é compatível com os seguintes sistemas operacionais: `<lista de sistemas operacionais>`.
+
+   -Você leu `<guia / link / "documentação_relacionada_ao_projeto>`. Lá você vai encontrar mais informações sobre o meu projeto, como o que ele faz, como ele funciona, quais são as suas funcionalidades e como testá-las
    
 
 ## 🛠 Instalação
@@ -27,13 +43,13 @@ Liste as principais tecnologias, ferramentas e bibliotecas que você usou no seu
    Windows:
 
    ```
-   <comando_de_instalação>
+   <exemplo>
 
    ```
    Linux e macOS:
 
    ```
-   <comando_de_instalação>
+   <exemplo>
    ```
 
 ## 🚀 Uso
@@ -53,7 +69,6 @@ Mostre como usar o seu projeto, dando exemplos de entradas, saídas e funcionali
    - Faça as suas alterações no código e faça um commit com uma mensagem explicativa: `git commit -m '<mensagem_commit>'`
    - Faça um push para o seu branch: `git push origin <nome_do_projeto> / <nome_branch>`
    - Abra um pull request no GitHub e descreva o que você fez e por que.
-   - Aguarde a minha revisão e feedback.
    
     -->
 
@@ -61,6 +76,8 @@ Mostre como usar o seu projeto, dando exemplos de entradas, saídas e funcionali
 
 Informe qual é a licença do seu projeto, se houver.
 Você pode usar sites como [Choose a License](https://choosealicense.com/) para escolher uma licença adequada.
+
+
 
 ## 😎 Veja como o projeto ficou em diferentes dispositivos:
 
@@ -74,3 +91,7 @@ Você pode usar sites como [Choose a License](https://choosealicense.com/) para 
 ![]()
 
 <!-- Susjestão: essa parte pode ficar la em cima -->
+
+----
+
+feito com ❤️ por [Mariana Antonia](https://github.com/mariana549)
