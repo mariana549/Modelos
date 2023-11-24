@@ -9,4 +9,4 @@ Mostre o seu trabalho com os nossos exemplos de templates de repositório incrí
  - esse [modelo](./modelos%20de%20repositorios/modelo%202/exemplo.md) já e mais simples para deixar so algumas informações imortantes, como resultado, descrição, tecnologias.
 
 ## Contribuição ✨
-Faça parte desta comunidade tornando este projeto ainda melhor. Leia como contribuir clicando [aqui](./Contribuir/contribuir.md) e a [licença]. Eu acredito que juntos podemos fazer coisas incríveis!
+Faça parte desta comunidade tornando este projeto ainda melhor. Leia como contribuir clicando [aqui](./Contribuir/contribuir.md) e a [licença](./LICENSE). Eu acredito que juntos podemos fazer coisas incríveis!
