@@ -14,12 +14,13 @@ Liste as principais tecnologias, ferramentas e bibliotecas que você usou no seu
     EXEMPLO 
     - HTML: para estruturar o conteúdo da página em elementos como div, form, input, button e a.
     - CSS: para estilizar a página com cores, responsividade, fontes, bordas, margens, alinhamentos e efeitos.
-    ..
+    
    
 
 ## 🛠 Instalação
-
-    Aqui você deve explicar como clonar o seu repositório, instalar as dependências e iniciar o servidor de desenvolvimento. Você deve usar comandos em blocos de código, usando a sintaxe do Markdown. Você também deve indicar o endereço do projeto no navegador, para que o usuário possa acessá-lo.
+   Aqui você deve explicar como clonar o seu repositório, instalar as dependências e iniciar o servidor de desenvolvimento.
+   Você deve usar comandos em blocos de código, usando a sintaxe do Markdown.
+   Você também deve indicar o endereço do projeto no navegador, para que o usuário possa acessá-lo.
 
    Para instalar o <nome_do_projeto>, siga estas etapas:
 
@@ -27,8 +28,8 @@ Liste as principais tecnologias, ferramentas e bibliotecas que você usou no seu
 
    ```
    <comando_de_instalação>
-   ```
 
+   ```
    Linux e macOS:
 
    ```
@@ -41,7 +42,8 @@ Mostre como usar o seu projeto, dando exemplos de entradas, saídas e funcionali
 
 
 ## 🙌 Contribuição <!-- para o seu projeto -->
-   Se o seu projeto aceita contribuições de outros desenvolvedores, explique como eles podem fazer isso. Dê as diretrizes para abrir issues, pull requests e seguir o código de conduta.
+   Se o seu projeto aceita contribuições de outros desenvolvedores, explique como eles podem fazer isso. 
+   Dê as diretrizes para abrir issues, pull requests e seguir o código de conduta.
 
    <!-- exemplo de como você pode fazer para explicar para as pessoas:
    Eu fico muito feliz se você quiser contribuir com o meu projeto. Se você tiver alguma ideia, sugestão ou correção, por favor, siga os passos abaixo:
@@ -57,7 +59,8 @@ Mostre como usar o seu projeto, dando exemplos de entradas, saídas e funcionali
 
 ## 📄 Licença
 
-Informe qual é a licença do seu projeto, se houver. Você pode usar sites como [Choose a License](https://choosealicense.com/) para escolher uma licença adequada.
+Informe qual é a licença do seu projeto, se houver.
+Você pode usar sites como [Choose a License](https://choosealicense.com/) para escolher uma licença adequada.
 
 ## 😎 Veja como o projeto ficou em diferentes dispositivos:
 
