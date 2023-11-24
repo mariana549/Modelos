@@ -19,7 +19,7 @@ Liste as principais tecnologias, ferramentas e bibliotecas que você usou no seu
 ## 😎 Veja como o projeto ficou em diferentes dispositivos:
 
 - computador 
-![](https://placekitten.com/700/300)
+![](https://placekitten.com/882/300)
 
 - ipad
 ![](https://placekitten.com/500/400)
