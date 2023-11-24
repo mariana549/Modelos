@@ -7,4 +7,4 @@ Eu adoraria receber a sua contribuição para o meu projeto. Você pode me ajuda
 - Faça as suas alterações no código e faça um commit com uma mensagem que explique o que você fez: `git commit -m '<mensagem_commit>'`
 - Faça um push para o seu branch: `git push origin <nome_do_projeto> / <nome_branch>`
 - Abra um pull request no GitHub e conte-me o que você fez e por quê.
-- Espere a minha avaliação e feedback.
+- me siga no github
