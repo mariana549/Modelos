@@ -72,6 +72,15 @@ Mostre como usar o seu projeto, dando exemplos de entradas, saídas e funcionali
    
     -->
 
+## ✒️ Autores
+
+   Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+   > Desenvolvedor - Trabalho Inicial - [desenvolvedor]
+   > Dev - Documentação - [dev]
+
+   > Você também pode ver a lista de todos os [colaboradores] que participaram deste projeto.
+
 ## 📄 Licença
 
 Informe qual é a licença do seu projeto, se houver.
