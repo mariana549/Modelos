@@ -82,13 +82,13 @@ Você pode usar sites como [Choose a License](https://choosealicense.com/) para 
 ## 😎 Veja como o projeto ficou em diferentes dispositivos:
 
 - computador 
-![]()
+![](https://placekitten.com/882/300)
 
 - ipad
-![]()
+![](https://placekitten.com/500/400)
 
 - telefone 
-![]()
+![](https://placekitten.com/342/400)
 
 <!-- Susjestão: essa parte pode ficar la em cima -->
 
